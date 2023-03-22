@@ -1,3 +1,3 @@
 # py-crud-api
 
-Basic CRUD api using Python with FastAPI
+Basic CRUD API using Python with FastAPI
